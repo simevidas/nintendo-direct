@@ -17,7 +17,7 @@ Time | Name | Genre | Release date | Notes
 [14:39](https://youtu.be/akohTFyGu88?t=14m39s) | Starlink: Battle for Atlas | action-adv. | October 16
 | | Arena of Valor | MOBA | 🔛 (Fall)
 | | Minecraft (Bedrock) | sandbox | June 21 
-| | Sushi Striker: The Way of Sushido | action-puzzle | … 
+| | Sushi Striker: The Way of Sushido | action-puzzle | (June 8) 
 | | Mario + Rabbids Kingdom Battle:<br>Donkey Kong Adventure 🚥 | turn-based TRPG | June 26 
 | | PixARK | sandbox | 🔛 (Fall)
 | | Just Dance 2019 | rhythm game | October 23
@@ -27,12 +27,12 @@ Time | Name | Genre | Release date | Notes
 | | Crash Bandicoot N. Sane Trilogy | platformer | June 29 
 | | ⚡️ Ninjala 🚥 | action | 🔜 (Spring)
 | | Carcassonne | board game | 🔛 (Holiday)
-| | FIFA 18 World Cup Update | football simulation | …
+| | FIFA 18 World Cup Update | football simulation | (May 29)
 | | FIFA 19 | football simulation | September 28
 | | Ark: Survival Evolved | survival game | 🔛 (Fall)
 | | Wasteland 2: Director’s Cut | RPG | 🔛 (Fall)
-| | Paladins: Champions of the Realm | TPS | …
-| | Fallout Shelter | simulation | …
+| | Paladins: Champions of the Realm | TPS | June 12
+| | Fallout Shelter | simulation | (June 10)
 | | Dark Souls: Remastered | action RPG | 🔛 (Summer)
 | | SNK Heroines: Tag Team Frenzy | fighting game | September 7 
 | | Monster Hunter Generations Ultimate 🚥 | action RPG | August 28
